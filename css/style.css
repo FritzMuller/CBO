@@ -1,0 +1,27 @@
+body.fondo {
+    font-family: 'Righteous', cursive;
+}
+
+nav.navbar-light {
+    background-color:gainsboro;
+}
+
+main.contenedor_melo {
+    background-color:whitesmoke;
+    background-image: url(../assets/img/szspa.jpg);
+    background-size:cover;
+}
+
+div.container div.col img {
+    height : 250px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+div.container div.col h2 {
+    font-size: 2em;
+    text-align: center;
+    color: green;
+    -webkit-text-stroke: 1.5px black;
+}
+
